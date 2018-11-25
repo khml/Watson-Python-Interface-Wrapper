@@ -13,8 +13,9 @@ https://wml-api-pyclient.mybluemix.net/
 $ pip install -r requirements.txt
 
 # setting config
+$ cd WPI
 $ mkdir config
-$ cp credential.conf config/credential.conf
+$ cp ../credential.conf config/credential.conf
 
 # and open and set config with Editor
 #   [Credential]

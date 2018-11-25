@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-from config import CredentialInfo
+from WPI.config import CredentialInfo
 
 from watson_machine_learning_client import WatsonMachineLearningAPIClient
 
